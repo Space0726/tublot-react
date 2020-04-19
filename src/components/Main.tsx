@@ -4,12 +4,12 @@ import './Main.css';
 import MainForm from './MainForm';
 
 function Main() {
-    return (
-        <main>
-            <MainLogo/>
-            <MainForm/>
-        </main>
-    );
+  return (
+    <main>
+      <MainLogo/>
+      <MainForm/>
+    </main>
+  );
 }
 
 export default Main;
